@@ -2,8 +2,8 @@
 
 ## Resume
 
-This is just a first outline of my Portfolio, I will be adding further commits
-with all the other projects I make.
+This is just a first outline of my Portfolio, I will be updating it with further commits
+with all the other projects I do.
 
 
 ## Dependencies
@@ -20,4 +20,4 @@ with all the other projects I make.
 
 ### TODO
 
-Create this Portfolio through Wordpress and add other themes to it. 
+Create this Portfolio through Wordpress, so there is a live version of it. I will also add other themes to it.
